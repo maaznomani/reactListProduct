@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reactListProduct/static/css/main.85d92444.chunk.css",
-    "main.js": "/reactListProduct/static/js/main.bb290d96.chunk.js",
-    "main.js.map": "/reactListProduct/static/js/main.bb290d96.chunk.js.map",
+    "main.css": "/reactListProduct/static/css/main.0876352b.chunk.css",
+    "main.js": "/reactListProduct/static/js/main.336045a1.chunk.js",
+    "main.js.map": "/reactListProduct/static/js/main.336045a1.chunk.js.map",
     "runtime-main.js": "/reactListProduct/static/js/runtime-main.649fc06a.js",
     "runtime-main.js.map": "/reactListProduct/static/js/runtime-main.649fc06a.js.map",
     "static/js/2.ada453f5.chunk.js": "/reactListProduct/static/js/2.ada453f5.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.374891dd.chunk.js": "/reactListProduct/static/js/3.374891dd.chunk.js",
     "static/js/3.374891dd.chunk.js.map": "/reactListProduct/static/js/3.374891dd.chunk.js.map",
     "index.html": "/reactListProduct/index.html",
-    "static/css/main.85d92444.chunk.css.map": "/reactListProduct/static/css/main.85d92444.chunk.css.map",
+    "static/css/main.0876352b.chunk.css.map": "/reactListProduct/static/css/main.0876352b.chunk.css.map",
     "static/js/2.ada453f5.chunk.js.LICENSE.txt": "/reactListProduct/static/js/2.ada453f5.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/reactListProduct/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.649fc06a.js",
     "static/js/2.ada453f5.chunk.js",
-    "static/css/main.85d92444.chunk.css",
-    "static/js/main.bb290d96.chunk.js"
+    "static/css/main.0876352b.chunk.css",
+    "static/js/main.336045a1.chunk.js"
   ]
 }
